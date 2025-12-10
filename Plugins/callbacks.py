@@ -227,7 +227,7 @@ async def settings_callback(client: Client, callback_query):
             await callback_query.message.edit_text(
                 "Select a channel to toggle its force-sub mode:",
                 reply_markup=InlineKeyboardMarkup(buttons + [
-                    [InlineKeyboardButton("Back to Settings", callback_data="verify_settings")]
+                    [InlineKeyboardButton("Close", callback_data="close")]
                 ])
             )
 
