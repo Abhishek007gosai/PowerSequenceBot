@@ -1,12 +1,12 @@
 import os
 from os import environ
 
-TG_BOT_TOKEN = ""
+TG_BOT_TOKEN = "8159731963:AAHflPblpC3mnTr1Jg907NXtMJYmVHWDn_g"
 APP_ID = 29245477
 API_HASH = "0abc83883262245c90ca337b7a0375c4"
 OWNER_ID = 8226767954
 PORT = 8080
-DB_URL = ""
+DB_URL = "mongodb+srv://PowerXRobot:70tZ0uHgMHdGI6XT@power.si3ebqi.mongodb.net/?appName=power"
 DB_NAME = "power"
 BOT_USERNAME = "PowerXRobot"
 FSUB_PIC = os.environ.get("FSUB_PIC", "https://files.catbox.moe/mattfj.jpg")
@@ -16,7 +16,7 @@ ABOUT_TXT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote>◈ᴀɴɪᴍᴇ : <
 HELP_TXT =  os.environ.get("HELP_MESSAGE", "⁉️ Hᴇʟʟᴏ {mention} \n<blockquote expandable><b>➪ Iᴀᴍ ᴀ ᴘᴜʙʟɪᴄ ғɪʟᴇ(s) sᴇǫᴜᴇɴᴄᴇ ʙᴏᴛ I ᴄᴀɴ sᴇǫᴜᴇɴᴄᴇ ᴛʜᴇ ғɪʟᴇs ᴀɴᴅ ᴀʟsᴏ I ᴄᴀɴ sᴇɴᴅ ᴛʜᴀᴛ ғɪʟᴇs ɪɴ ᴅᴜᴍᴘ ᴄʜᴀɴɴᴇʟ.</blockquote>ʜᴇʟᴘʟɪɴᴇ @EternalsHelplineBot</b>")
 TG_BOT_WORKERS = 10000
 FSUB_LINK_EXPIRY = 300
-DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "-1003089960436"))
+DATABASE_CHANNEL = -1003089960436
 LOG_FILE_NAME = "links-sharingbot.txt"
 SEASON_PATTERN = r'[Ss](\d{1,2})'
 EPISODE_PATTERN = r'[Ee][Pp]?(\d{1,3})'
