@@ -1,13 +1,13 @@
 import os
 from os import environ
 
-TG_BOT_TOKEN = os.environ.get("BOT_TOKEN", "756596:AAF")
-APP_ID = int(os.environ.get("APP_ID", "2355"))
-API_HASH = os.environ.get("API_HASH", "4vsavkjahvsdhk")
-OWNER_ID = int(os.environ.get("OWNER_ID", "5741918628"))
+TG_BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+APP_ID = int(os.environ.get("APP_ID", "29245477"))
+API_HASH = os.environ.get("API_HASH", "0abc83883262245c90ca337b7a0375c4")
+OWNER_ID = 8226767954
 PORT = os.environ.get("PORT", "8080")
-DB_URL = os.environ.get("DB_URI", "mongodb+srv://odb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DB_NAME = os.environ.get("DB_NAME", "Rex_sequencebott")
+DB_URL = os.environ.get("DB_URI", "")
+DB_NAME = os.environ.get("DB_NAME", "")
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "S_QV_Sbot")
 FSUB_PIC = os.environ.get("FSUB_PIC", "https://ibb.co/FL66q5G9")
 START_PIC =os.environ.get("START_PIC", "https://ibb.co/FL66q5G9")
