@@ -1,14 +1,14 @@
 import os
 from os import environ
 
-TG_BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-APP_ID = int(os.environ.get("APP_ID", "29245477"))
-API_HASH = os.environ.get("API_HASH", "0abc83883262245c90ca337b7a0375c4")
+TG_BOT_TOKEN = "8159731963:AAHflPblpC3mnTr1Jg907NXtMJYmVHWDn_g"
+APP_ID = 29245477
+API_HASH = "0abc83883262245c90ca337b7a0375c4"
 OWNER_ID = 8226767954
-PORT = os.environ.get("PORT", "8080")
-DB_URL = os.environ.get("DB_URI", "")
-DB_NAME = os.environ.get("DB_NAME", "power")
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "PowerXRobot")
+PORT = 8080
+DB_URL = "mongodb+srv://PowerXRobot:70tZ0uHgMHdGI6XT@power.si3ebqi.mongodb.net/?appName=power"
+DB_NAME = "power"
+BOT_USERNAME = "PowerXRobot"
 FSUB_PIC = os.environ.get("FSUB_PIC", "https://files.catbox.moe/mattfj.jpg")
 START_PIC =os.environ.get("START_PIC", "https://files.catbox.moe/mattfj.jpg")
 START_MSG = os.environ.get("START_MSG", "<b><blockquote>Bᴀᴋᴀᴀᴀ...!!!{mention} Iᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ sᴇǫᴜᴇɴᴄᴇ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs. I ᴄᴀɴ sᴇǫᴜᴇɴᴄᴇ ʏᴏᴜʀ ғɪʟᴇs ᴇᴀsɪʟʏ ɪɴ ᴀ sᴇᴄᴏɴᴅ...!!</b></blockquote>")
