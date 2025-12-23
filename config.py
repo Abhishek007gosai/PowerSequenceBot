@@ -7,16 +7,16 @@ API_HASH = os.environ.get("API_HASH", "0abc83883262245c90ca337b7a0375c4")
 OWNER_ID = 8226767954
 PORT = os.environ.get("PORT", "8080")
 DB_URL = os.environ.get("DB_URI", "")
-DB_NAME = os.environ.get("DB_NAME", "")
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "S_QV_Sbot")
-FSUB_PIC = os.environ.get("FSUB_PIC", "https://ibb.co/FL66q5G9")
-START_PIC =os.environ.get("START_PIC", "https://ibb.co/FL66q5G9")
-START_MSG = os.environ.get("START_MSG", "<b>Bᴀᴋᴀᴀᴀ...!!!{mention}</b> \n<blockquote><b><i>Iᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ sᴇǫᴜᴇɴᴄᴇ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs. I ᴄᴀɴ sᴇǫᴜᴇɴᴄᴇ ʏᴏᴜʀ ғɪʟᴇs ᴇᴀsɪʟʏ ɪɴ ᴀ sᴇᴄᴏɴᴅ...!!</i></b></blockquote>")
-ABOUT_TXT = os.environ.get("ABOUT_MESSAGE", "<i><b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/RexBots_Official>RexBots</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/RexBots_Official>RexBOTS</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href='https://t.me/about_zani/117'>ZANI</a>\n◈ ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>ᴍᴏɴɢᴏ ᴅʙ</a>\n» ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href='https://t.me/about_zani/117'>ZANI</a></blockquote></b></i>")
-HELP_TXT =  os.environ.get("HELP_MESSAGE", "⁉️ Hᴇʟʟᴏ {mention} \n<blockquote expandable><b><i>➪ Iᴀᴍ ᴀ ᴘᴜʙʟɪᴄ ғɪʟᴇ(s) sᴇǫᴜᴇɴᴄᴇ ʙᴏᴛ I ᴄᴀɴ sᴇǫᴜᴇɴᴄᴇ ᴛʜᴇ ғɪʟᴇs ᴀɴᴅ ᴀʟsᴏ I ᴄᴀɴ sᴇɴᴅ ᴛʜᴀᴛ ғɪʟᴇs ɪɴ ᴅᴜᴍᴘ ᴄʜᴀɴɴᴇʟ. </i></b></blockquote>")
+DB_NAME = os.environ.get("DB_NAME", "power")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "PowerXRobot")
+FSUB_PIC = os.environ.get("FSUB_PIC", "https://files.catbox.moe/mattfj.jpg")
+START_PIC =os.environ.get("START_PIC", "https://files.catbox.moe/mattfj.jpg")
+START_MSG = os.environ.get("START_MSG", "<b><blockquote>Bᴀᴋᴀᴀᴀ...!!!{mention} Iᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ sᴇǫᴜᴇɴᴄᴇ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs. I ᴄᴀɴ sᴇǫᴜᴇɴᴄᴇ ʏᴏᴜʀ ғɪʟᴇs ᴇᴀsɪʟʏ ɪɴ ᴀ sᴇᴄᴏɴᴅ...!!</b></blockquote>")
+ABOUT_TXT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote>◈ᴀɴɪᴍᴇ : <a href='https://t.me/KafkaX_Bot?start=LTEwMDE0NTczMTMwMjg='>ᴇᴛᴇʀɴᴀʟꜱ</a>\n◈ɴᴇᴡs :<a href='https://t.me/Anime_News_Arena'>ᴀɴɪᴍᴇ ɴᴇᴡs</a>\n◈ᴇᴄᴄʜɪ : <a href='https://t.me/Ecchi_Dex'>ᴇᴄᴄʜɪ ᴅᴇx</a>\n◈ ᴄʀᴇᴀᴛᴏʀ :<a href=https://t.me/EternalsHelplineBot>ᴏᴡɴᴇʀ</a>\n◈ᴅᴀᴛᴀʙᴀsᴇ :<a href='https://www.mongodb.com/docs/'>ᴍᴏɴɢᴏ ᴅʙ</a></blockquote></b>")
+HELP_TXT =  os.environ.get("HELP_MESSAGE", "⁉️ Hᴇʟʟᴏ {mention} \n<blockquote expandable><b>➪ Iᴀᴍ ᴀ ᴘᴜʙʟɪᴄ ғɪʟᴇ(s) sᴇǫᴜᴇɴᴄᴇ ʙᴏᴛ I ᴄᴀɴ sᴇǫᴜᴇɴᴄᴇ ᴛʜᴇ ғɪʟᴇs ᴀɴᴅ ᴀʟsᴏ I ᴄᴀɴ sᴇɴᴅ ᴛʜᴀᴛ ғɪʟᴇs ɪɴ ᴅᴜᴍᴘ ᴄʜᴀɴɴᴇʟ.</blockquote>ʜᴇʟᴘʟɪɴᴇ @EternalsHelplineBot</b>")
 TG_BOT_WORKERS = 10000
 FSUB_LINK_EXPIRY = 300
-DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "-10654657458"))
+DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "-1003089960436"))
 LOG_FILE_NAME = "links-sharingbot.txt"
 SEASON_PATTERN = r'[Ss](\d{1,2})'
 EPISODE_PATTERN = r'[Ee][Pp]?(\d{1,3})'
