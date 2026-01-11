@@ -1,12 +1,12 @@
 import os
 from os import environ
 
-TG_BOT_TOKEN = ""
+TG_BOT_TOKEN = "8159731963:AAHflPblpC3mnTr1Jg907NXtMJYmVHWDn_g"
 APP_ID = 29245477
 API_HASH = "0abc83883262245c90ca337b7a0375c4"
 OWNER_ID = 8226767954
 PORT = 8080
-DB_URL = ""
+DB_URL = "mongodb+srv://PowerXRobot:70tZ0uHgMHdGI6XT@power.si3ebqi.mongodb.net/?appName=power"
 DB_NAME = "power"
 BOT_USERNAME = "PowerXRobot"
 FSUB_PIC = os.environ.get("FSUB_PIC", "https://files.catbox.moe/mattfj.jpg")
